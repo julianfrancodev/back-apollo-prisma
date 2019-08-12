@@ -21,7 +21,8 @@
     "graphql-import": "^0.7.1",
     "graphql-tools": "^4.0.5",
     "jsonwebtoken": "^8.5.1",
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "prisma-client-lib": "^1.34.5"
   },
   "devDependencies": {}
 }

@@ -475,5 +475,5 @@ input UserWhereUniqueInput {
   id: ID
 }
 `
-      }
+      };
     
